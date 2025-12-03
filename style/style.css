@@ -127,7 +127,8 @@ body {
         flex-direction: column-reverse;
         padding: 5%;
     }
-    .apresentacao__imagem{
+    .apresentacao__conteudo{
         width: auto;
     }
+
 }
